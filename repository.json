@@ -1,0 +1,6 @@
+{
+  "name": "dtiTraining",
+  "version": "7.10.0",
+  "description": "DTI research/training environment",
+  "dependencies": { "base": "7.12.0+1198" }
+}
