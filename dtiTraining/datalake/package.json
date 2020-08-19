@@ -1,0 +1,9 @@
+{
+    "name": "baseCovidDataLake",
+    "description": "Base Covid Datalake",
+    "author": "Matthew Krafczyk <krafczyk.matthew@gmail.com>",
+    "dependencies": [
+        "covid19DataLake",
+        "uiFramework"
+    ]
+}

@@ -1,0 +1,2 @@
+@facade(cluster = "https://prod-covid.c3-e.com", tenant = 'covid', tag = 'prod')
+remix type AggregateOutbreakLocationMeasurement
